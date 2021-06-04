@@ -1,0 +1,6 @@
+.block_jurnal h1 {margin: 4px;font-size: 1.1em;}
+.block_jurnal table.grades {text-align: left;width: 100%; cell-spacing: 1;}
+.block_jurnal th {text-align: left}
+.block_jurnal table.grades .number,
+.block_jurnal table.grades .grade {text-align: right;width: 10%;}
+.block_jurnal table.grades caption {margin: 1em 0px 0px 0px;border-bottom-width: 1px;border-bottom-style: solid;font-weight: bold;}
